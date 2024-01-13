@@ -1,0 +1,25 @@
+body,html
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    min-height: 70px;    
+    font-family: "papyrus";
+    text-align: center;
+}
+header h1
+{
+    color:black;
+}
+canvas
+{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color:black;
+}
